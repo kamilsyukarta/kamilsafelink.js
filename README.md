@@ -1,2 +1,2 @@
-# js
-safelink
+# kamilsafelink.js
+safelin
